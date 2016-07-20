@@ -6,3 +6,4 @@ add group
 add passwd
 /etc/init.d/network
 /etc/sysconfig/network-scirpts/ifcfg-eth0
+/etc/hosts
