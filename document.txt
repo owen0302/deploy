@@ -1,2 +1,2 @@
-add document.txt
+add document.txt to git
 
